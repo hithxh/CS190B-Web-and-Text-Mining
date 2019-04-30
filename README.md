@@ -1,4 +1,4 @@
-In the sunmmer semester of 2018, I was a Teaching Assitant of the course "CS190B Web & Text Mining". And my job was mainly give 2 labs.
+In the sunmmer semester of 2018, I was a Teaching Assitant of the course "CS190B Web & Text Mining", which was for undergraduates. And my job was mainly giving 2 labs.
 
 ## Web Analytics
 This folder give 3 web crawling demos.
